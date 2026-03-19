@@ -1,5 +1,5 @@
 
-[food-tracker.html](https://github.com/user-attachments/files/26111218/food-tracker.html)
+[index.html](https://github.com/user-attachments/files/26111218/food-tracker.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
